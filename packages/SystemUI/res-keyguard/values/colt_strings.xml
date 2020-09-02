@@ -22,5 +22,6 @@
     <string name="date_long_title_today">Today is %s</string>
     <string name="clock_title_rainbow_circle_animation" translatable="false">Rainbow circle</string>
     <string name="clock_title_fire_circle_animation" translatable="false">Fire circle</string>
+    <string name="clock_title_blue_circle_animation" translatable="false">Blue circle</string>
 
 </resources>
